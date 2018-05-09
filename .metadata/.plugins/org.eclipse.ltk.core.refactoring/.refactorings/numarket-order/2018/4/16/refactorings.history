@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Order.java&apos; to &apos;numarket-portal/src/main/java/com.numarket.portal.pojo&apos;&#x0D;&#x0A;- Original project: &apos;numarket-order&apos;&#x0D;&#x0A;- Destination element: &apos;numarket-portal/src/main/java/com.numarket.portal.pojo&apos;&#x0D;&#x0A;- Original element: &apos;com.numarket.order.pojo.Order.java&apos;" description="Copy compilation unit" destination="=numarket-portal/src\/main\/java&lt;com.numarket.portal.pojo" element1="/src\/main\/java&lt;com.numarket.order.pojo{Order.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1523931044799" units="1" version="1.0"/>
+</session>

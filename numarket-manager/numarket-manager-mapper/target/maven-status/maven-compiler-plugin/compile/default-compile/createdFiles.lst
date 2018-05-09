@@ -1,0 +1,11 @@
+com\numarket\mapper\TbItemParamMapper.class
+com\numarket\mapper\TbItemDescMapper.class
+com\numarket\mapper\TbOrderShippingMapper.class
+com\numarket\mapper\TbItemCatMapper.class
+com\numarket\mapper\TbOrderItemMapper.class
+com\numarket\mapper\TbUserMapper.class
+com\numarket\mapper\TbContentCategoryMapper.class
+com\numarket\mapper\TbContentMapper.class
+com\numarket\mapper\TbItemMapper.class
+com\numarket\mapper\TbItemParamItemMapper.class
+com\numarket\mapper\TbOrderMapper.class

@@ -1,0 +1,7 @@
+G:\MavenProject\numarket-order\src\main\java\com\numarket\order\controller\OrderController.java
+G:\MavenProject\numarket-order\src\main\java\com\numarket\order\service\impl\OrderServiceImpl.java
+G:\MavenProject\numarket-order\src\main\java\com\numarket\order\service\OrderService.java
+G:\MavenProject\numarket-order\src\main\java\com\numarket\order\pojo\Order.java
+G:\MavenProject\numarket-order\src\main\java\com\numarket\order\dao\impl\JedisClientSingle.java
+G:\MavenProject\numarket-order\src\main\java\com\numarket\order\dao\JedisClient.java
+G:\MavenProject\numarket-order\src\main\java\com\numarket\order\dao\impl\JedisClientCluster.java

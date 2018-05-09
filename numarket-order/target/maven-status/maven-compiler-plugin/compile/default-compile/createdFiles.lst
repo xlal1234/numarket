@@ -1,0 +1,7 @@
+com\numarket\order\dao\impl\JedisClientCluster.class
+com\numarket\order\dao\impl\JedisClientSingle.class
+com\numarket\order\service\impl\OrderServiceImpl.class
+com\numarket\order\service\OrderService.class
+com\numarket\order\dao\JedisClient.class
+com\numarket\order\controller\OrderController.class
+com\numarket\order\pojo\Order.class

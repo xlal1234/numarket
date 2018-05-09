@@ -1,0 +1,2 @@
+127.0.0.1 - - [26/Apr/2018:19:55:28 -0400] "GET /search/query?q=fire&page=1 HTTP/1.1" 200 427 http-bio-8083-exec-1 4689
+127.0.0.1 - - [26/Apr/2018:19:55:57 -0400] "GET /search/query?q=Fire&page=1 HTTP/1.1" 200 427 http-bio-8083-exec-3 118

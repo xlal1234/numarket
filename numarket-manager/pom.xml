@@ -1,0 +1,41 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.numarket</groupId>
+    <artifactId>numarket-parent</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  <groupId>com.numarket</groupId>
+  <artifactId>numarket-manager</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <dependencies>
+		<dependency>
+			<groupId>com.numarket</groupId>
+			<artifactId>numarket-common</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
+  
+  <modules>
+  	<module>numarket-manager-pojo</module>
+  	<module>numarket-manager-mapper</module>
+  	<module>numarket-manager-service</module>
+  	<module>numarket-manager-web</module>
+  </modules>
+  <build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.tomcat.maven</groupId>
+				<artifactId>tomcat7-maven-plugin</artifactId>
+				<configuration>
+					<port>8080</port>
+					<path>/</path>
+					<!-- <url>http://192.168.1.211:8080/manager/text</url>
+					<username>tomcat</username>
+					<password>tomcat</password> -->
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+</project>
